@@ -1,0 +1,39 @@
+.img-10{
+    position: relative;
+    top: 15px;
+    left: 135px;
+}
+.img-11{
+    position: relative;
+    top: -93px;
+    left: 20px;
+}
+.img-12{
+    position: relative;
+    top: -185px;
+    left: 110px;
+}
+.text-9{
+    position: relative;
+    left: 75px;
+    top: -165px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    color: #0A083A;
+}
+.text-10{
+    position: relative;
+    left: 75px;
+    top: -157px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.04em;
+    color: #0A083A;
+}
+

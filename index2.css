@@ -1,0 +1,38 @@
+.img-4{
+    position: relative;
+    top: 15px;
+    left: 90px;
+}
+.img-5{
+    position: relative;
+    top: -90px;
+    /* left: -5px; */
+}
+.img-6{
+    position: relative;
+    top: -122px;
+    left: 90px;
+}
+.text-5{
+    position: relative;
+    left: 40px;
+    top: -101px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    color: #0A083A;
+}
+.text-6{
+    position: relative;
+    left: 40px;
+    top: -92px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.04em;
+    color: #0A083A;
+}

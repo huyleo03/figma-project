@@ -1,0 +1,38 @@
+.img-7{
+    position: relative;
+    top: 15px;
+    left: 110px;
+}
+.img-8{
+    position: relative;
+    top: -100px;
+    left: 14px;
+}
+.img-9{
+    position: relative;
+    top: -136px;
+    left: 110px;
+}
+.text-7{
+    position: relative;
+    left: 55px;
+    top: -115px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    color: #0A083A;
+}
+.text-8{
+    position: relative;
+    left: 55px;
+    top: -106px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.04em;
+    color: #0A083A;
+}

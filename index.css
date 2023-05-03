@@ -1,0 +1,82 @@
+.container-1{
+  display: grid;
+  grid-template-columns: 50% 25% 25%;
+  margin-top: 10px;
+  /* border: 2px solid brown; */
+  margin-bottom: 40px;
+  /* gap: 15px; */
+}
+/* body{
+  background: linear-gradient(360deg, #FE7831 20%, #FFDEBE 100%);
+} */
+.text-1{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 56px;
+  letter-spacing: -0.04em;
+  color: #0A083A;
+  position: relative;
+  left: 50px;
+  top: 10px;
+
+}
+.text-2{
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 32px;
+  color: #FF3C78;
+  position: relative;
+  top: 23px;
+  left: 25px;
+} 
+.container-2{
+  display: grid;
+  grid-template-columns: repeat(4 ,25%);
+  height: 400px;
+  /* gap: 15px; */
+}
+.img-1{
+  position: relative;
+  top: 15px;
+  left: 65px;
+
+}
+.img-2{
+  position: relative;
+  top: -70px;
+  width: 250px;
+  right: 10px;
+}
+.img-3{
+  position: relative;
+  top: -100px;
+  left: 60px;
+}
+.text-3{
+  position: relative;
+  left: 20px;
+  top: -80px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 32px;
+  color: #0A083A;
+}
+.text-4{
+  position: relative;
+  left: 20px;
+  top: -70px;
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 40px;
+  letter-spacing: -0.04em;
+  color: #0A083A;
+}
+
